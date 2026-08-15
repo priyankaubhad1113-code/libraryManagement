@@ -1,5 +1,7 @@
 # Library Management API
-this is my 1st project on github Author-Priyanka Ubhad
+this is my 1st project on github
+<br>
+Author-Priyanka Ubhad
 
 A RESTful Library Management API built from scratch using Java and Spring Boot.
 
